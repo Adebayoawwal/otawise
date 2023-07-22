@@ -1,0 +1,103 @@
+.contain{
+    background: white;
+    box-shadow: 3px 3px 6px 7px rgb(238, 235, 235);
+    width: 370px;
+    height: 33pc;
+    border-radius: 6px;
+    position: absolute;
+    left: 23px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.image{
+text-align: center;
+
+}
+img{
+    font-size: 200pc;
+}
+.heading{
+    font-size: 1.5pc;
+    position: absolute;
+    left: 23px;
+}
+p{
+ position: absolute;
+ top: 8.2pc;
+ left: 23px;
+}
+form{
+    position: absolute;
+    top: 11pc;
+}
+select{
+    height: 2.7pc;
+    border-radius: 7px;
+    color: rgb(201, 194, 194);
+    width: 22pc;
+    position: relative;  
+    left: 10px;
+    border: 1px solid rgb(207, 199, 199);
+}
+
+object{
+    color: rgb(201, 194, 194);
+    font-size: 1.2pc;
+    position: relative;
+    left: 10px;
+}
+.user{
+    position: relative;
+    top: 3px;
+    color: rgb(201, 194, 194);
+}
+.password{
+    position: relative;
+    top: 11px;
+    color: rgb(201, 194, 194);
+}
+input
+{
+    position: relative;
+    left: 10px;
+    height: 2.7pc;
+    border-radius: 7px;
+    color: rgb(201, 194, 194);
+    width: 22pc;
+    border: 1px solid rgb(207, 199, 199);
+}
+.contain .password h3{
+  position: relative;
+  top: 29px;
+}
+button{
+    position: relative;
+    top: 18pc;
+    left: 8px;
+    height: 2.4pc;
+    width: 22pc;
+    border: 1px solid green;
+}
+.inp{
+   position: relative;
+   text-align: center;
+   align-items: center;
+   top: 19pc;
+}
+span{
+    height: 23pc;
+}
+.icon{
+    position: relative;
+    text-align: center;
+    top: 19pc;
+}
+i{
+    font-size: 2pc;
+}
+.box{
+    background: rgb(167, 163, 163);
+    height: 7pc;
+    width: 7pc;
+}
